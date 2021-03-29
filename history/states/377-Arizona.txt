@@ -8,14 +8,14 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = AZT
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 2
 
 		}
-		add_core_of = USA
+		add_core_of = AZT
 		victory_points = {
 			853 3 
 		}

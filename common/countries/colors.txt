@@ -711,3 +711,7 @@ TEX = {
 	color = rgb { 43  67  86 }
 	color_ui = rgb { 43  67  86 }
 }
+AZT = {
+	color = rgb { 34  102  0 ) }
+	color_ui = rgb { 34  102  0 }
+}
