@@ -1,0 +1,29 @@
+
+state={
+	id=808
+	name="STATE_808"
+	resources={
+		oil=4
+	}
+
+	history={
+		owner = TEX
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = TEX
+		victory_points = {
+			1827 5 
+		}
+
+	}
+
+	provinces={
+		868 1658 1738 4586 12561 12627 13236 
+	}
+	manpower=352169
+	buildings_max_level_factor=1.000
+	state_category=town
+}

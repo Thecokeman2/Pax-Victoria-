@@ -1,0 +1,44 @@
+
+state={
+	id=809
+	name="STATE_809"
+	resources={
+		aluminium=3.000
+	}
+
+	history={
+		owner = DES
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			1562 = {
+				naval_base = 10
+
+			}
+
+		}
+		add_core_of = DES
+		victory_points = {
+			9814 30 
+		}
+		victory_points = {
+			1562 15 
+		}
+		victory_points = {
+			9671 25 
+		}
+		victory_points = {
+			9713 1 
+		}
+
+	}
+
+	provinces={
+		823 1562 1651 4657 4727 7517 7667 7986 10387 10483 11757 11795 12303 12374 
+	}
+	manpower=1873492	
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}
