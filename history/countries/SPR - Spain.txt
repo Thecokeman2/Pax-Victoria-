@@ -166,6 +166,23 @@ set_politics = {
 }
 
 set_convoys = 150
+# DIPLOMACY
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = FLO
+		autonomous_state = autonomy_colony
+		freedom_level = 0.2
+	}
+	else = {
+		puppet = FLO
+	}
+}
 set_stability = 0.5
 
 1939.1.1 = {

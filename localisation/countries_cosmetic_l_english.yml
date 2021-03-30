@@ -1060,3 +1060,11 @@
  TUR_PROVISIONARY_neutrality:0 "Provisionary State of Anatolia"
  TRN_neutrality_DEF:0 "Turan"
  
+ 
+ FLO_SPR:0 "Spanish Florida"
+ FLO_SPR_DEF:0 "the Colony of Spanish Florida"
+ FLO_SPR_ADJ:0 "Floridian"
+ 
+ TEX_GER:0 "German Texas"
+ TEX_GER_DEF:0 "the Colony of German Texas"
+ TEX_GER_ADJ:0 "Texan"

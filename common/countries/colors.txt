@@ -715,3 +715,15 @@ AZT = {
 	color = rgb { 34  102  0 }
 	color_ui = rgb { 34  102  0 }
 }
+NEG = {
+	color = rgb { 0  99  56 }
+	color_ui = rgb { 0  99  56 }
+}
+FLO = {
+	color = rgb { 252  221  9 }
+	color_ui = rgb { 252  221  9 }
+}
+SAT = {
+	color = rgb { 0  0  0 }
+	color_ui = rgb { 0  0  0 }
+}
