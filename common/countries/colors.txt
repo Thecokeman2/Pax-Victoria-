@@ -726,11 +726,4 @@ FLO = {
 SAT = {
 	color = rgb { 0  0  0 }
 	color_ui = rgb { 0  0  0 }
-<<<<<<< HEAD
-=======
-}
-NFR = {
-	color = rgb { 0  153  255 }
-	color_ui = rgb { 0  153  255 }
->>>>>>> parent of 8befb10 (cascadia)
 }
