@@ -8,14 +8,14 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = NFR
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
 			air_base = 2
 
 		}
-		add_core_of = USA
+		add_core_of = NFR
 		victory_points = {
 			1806 1 
 		}

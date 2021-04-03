@@ -727,3 +727,11 @@ SAT = {
 	color = rgb { 0  0  0 }
 	color_ui = rgb { 0  0  0 }
 }
+NFR = {
+	color = rgb { 0  153  255 }
+	color_ui = rgb { 0  153  255 }
+}
+CAS = {
+	color = rgb { 7  76  7 }
+	color_ui = rgb { 7  76  7 }
+}
