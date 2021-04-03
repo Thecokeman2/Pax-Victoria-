@@ -210,4 +210,9 @@ TEX = "countries/Texas.txt"
 AZT = "countries/Aztlan.txt"
 NEG = "countries/New England.txt"
 FLO = "countries/Florida.txt"
+<<<<<<< HEAD
 SAT = "countries/Satanic Order.txt"
+=======
+SAT = "countries/Satanic Order.txt"
+NFR = "countries/Nouvelle France.txt"
+>>>>>>> parent of 8befb10 (cascadia)
