@@ -735,3 +735,7 @@ CAS = {
 	color = rgb { 7  76  7 }
 	color_ui = rgb { 7  76  7 }
 }
+NYC = {
+	color = rgb { 255  115  0 }
+	color_ui = rgb { 255  115  0 }
+}
