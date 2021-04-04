@@ -1,3 +1,4 @@
 KOS	= "countries/Kosovo.txt"
 NYC     = "countries/New York.txt"
 QUE     = "countries/Quebec.txt"
+NAL     = "countries/New Albion.txt"

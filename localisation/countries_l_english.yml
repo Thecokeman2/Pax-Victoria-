@@ -3216,5 +3216,8 @@
  NYC_DEF:0 "New York"
  NYC_ADJ:0 "New Yorker"
  QUE:0 "Quebec"
- QUE_DEF:0 "Quebec
+ QUE_DEF:0 "Quebec"
  QUE_ADJ:0 "Quebecois"
+ NAL:0 "New Albion"
+ NAL_DEF:0 "New Albion"
+ NAL_ADJ:0 "New Albionites"

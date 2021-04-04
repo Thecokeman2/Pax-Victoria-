@@ -1,0 +1,27 @@
+
+state={
+	id=813
+	name="STATE_813"
+
+	history={
+		owner = NAL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			air_base = 5
+
+		}
+		add_core_of = NAL
+		victory_points = {
+			4569 5 
+		}
+
+	}
+
+	provinces={
+		1621 4569 12305 
+	}
+	manpower=5930446
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}
