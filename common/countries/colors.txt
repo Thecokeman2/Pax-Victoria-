@@ -739,3 +739,7 @@ NYC = {
 	color = rgb { 255  115  0 }
 	color_ui = rgb { 255  115  0 }
 }
+QUE = {
+	color = rgb { 55  52  135 }
+	color_ui = rgb { 55  52  135 }
+}
