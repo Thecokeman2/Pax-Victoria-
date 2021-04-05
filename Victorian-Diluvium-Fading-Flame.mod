@@ -3,8 +3,8 @@ tags={
 	"Graphics"
 	"Map"
 }
-name="Pax Victoria"
+name="Victorian Diluvium: Fading Flame"
 replace_path="map"
 replace_path="history/states"
 supported_version="1.10.*"
-path="mod/Pax-Victoria-"
+path="mod/Victorian-Diluvium-Fading-Flame"
