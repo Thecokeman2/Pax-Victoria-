@@ -3,28 +3,28 @@ state={
 	id=376
 	name="STATE_376"
 	resources={
-		oil=4.000
-		aluminium=10
+		oil=7.000
+		aluminium=15.000
 	}
 
 	history={
-		owner = AZT
+		owner = USA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 
 		}
-		add_core_of = AZT
+		add_core_of = USA
 		victory_points = {
-			4975 1 
+			4975 3 
 		}
 
 	}
 
 	provinces={
-		1972 5044 9792 10914 12552 
+		2102 3883 4975 8070 10642 10867 12684 
 	}
-	manpower=198959
+	manpower=151587
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

@@ -1,33 +1,30 @@
-state={
+state={	#Bitburg
 	id=792
 	name="STATE_792"
-	resources={
-		steel=8.000
-	}
 
 	history={
-		owner = SPR
+		owner = GER
 		victory_points = {
-			740 10
+			11435 1 
 		}
-		add_core_of = NAV
 		buildings = {
-			infrastructure = 6
-			industrial_complex = 1
-			arms_factory = 1
-			740 = {
-				naval_base = 1
-			}
-			air_base = 1
+			infrastructure = 7
+
 		}
-		add_core_of = SPR
+		add_core_of = GER
+		add_core_of = PRE
+		set_demilitarized_zone = no
+		1936.3.7 = {
+			set_demilitarized_zone = no
+
+		}
 
 	}
 
 	provinces={
-		740 3735 6756 13233 
+		11435 
 	}
-	manpower=928094
+	manpower=22003
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=pastoral
 }

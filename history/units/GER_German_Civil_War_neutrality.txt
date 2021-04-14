@@ -84,7 +84,7 @@ units = {
 	}
 	division = {
 		name = "15. Landsturmregiment"
-		location = 11468
+		location = 11402
 		division_template = "Landsturmregiment"
 	}
 	division = {
@@ -94,7 +94,7 @@ units = {
 	}
 	division = {
 		name = "17. Landsturmregiment"
-		location = 9238
+		location = 6218
 		division_template = "Landsturmregiment"
 	}
 	division = {

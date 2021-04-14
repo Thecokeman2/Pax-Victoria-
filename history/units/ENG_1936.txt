@@ -374,15 +374,6 @@ units = {
 	}
 	
 	### Far East Command ###
-	###China
-	division= {	
-		name = "Hong Kong VDF"
-		location = 10062
-		division_template = "Colonial Garrison"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.2
-
-	}
 	###Malaya
 	division= {	
 		name = "Singapore Fortress"

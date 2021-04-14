@@ -1,4 +1,4 @@
-﻿capital = 64
+﻿capital = 1105
 
 # Starting tech
 set_technology = {
@@ -160,7 +160,7 @@ add_ideas = {
 #create_country_leader = {
 #	name = "Ernst Thälmann"
 #	desc = "POLITICS_ERNST_THALMANN_DESC"
-#	picture = "Portrait_Germany_Adolf_Hitler.dds"
+#	picture = "gfx/leaders/PRE/Ernst_Thalmann.dds"
 #	expire = "1956.1.1"
 #	ideology = stalinism
 #	traits = {

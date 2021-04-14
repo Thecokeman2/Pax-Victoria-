@@ -124,13 +124,17 @@ if = { #DLC
 	round_variable = BUL_march_destination
 	48 = { set_state_flag = BUL_initial_bulgarian_state_flag }
 	212 = { set_state_flag = BUL_initial_bulgarian_state_flag }
-	801 = { set_state_flag = BUL_initial_bulgarian_state_flag }
-	211  = { set_state_flag = BUL_initial_bulgarian_state_flag }
+	943 = { set_state_flag = BUL_initial_bulgarian_state_flag }
+	211 = { set_state_flag = BUL_initial_bulgarian_state_flag }
 	77 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
-	803 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
+	870 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
 	106 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
-	731 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
+	#731 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
 	184 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
+	1063 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
+	1159 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
+	1265 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
+	1266 = { set_state_flag = BUL_historical_bulgarian_claim_flag }
 
 	#International Relations
 	add_opinion_modifier = { 

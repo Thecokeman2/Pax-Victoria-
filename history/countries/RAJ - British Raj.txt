@@ -22,13 +22,6 @@ set_technology = {
 }
 
 if = {
-	limit = {
-		has_dlc = "Battle for the Bosporus"
-	}
-	set_technology = { camelry = 1 }
-}
-
-if = {
 	limit = { has_dlc = "Together for Victory" }
 
 	add_ideas = {
@@ -123,6 +116,17 @@ set_cosmetic_tag = RAJ_UK # British Raj
 		dispersed_industry2 = 1
 		dispersed_industry3 = 1
 	}
+	
+	create_country_leader = {
+		name = "Lord Linlithgow"
+		desc = "POLITICS_LORD_LINLITHGOW_DESC"
+		picture = "gfx/leaders/RAJ/Portrait_British_Raj_Lord_Linlithgow.dds"
+		expire = "1965.1.1"
+		ideology = despotism
+		traits = {
+
+		}
+	}
 }
 
 set_politics = {
@@ -139,10 +143,10 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Lord Linlithgow"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "gfx/leaders/RAJ/Portrait_British_Raj_Lord_Linlithgow.dds"
-	expire = "1965.1.1"
+	name = "Lord Willingdon"
+	desc = "POLITICS_LORD_WILLINGDON_DESC"
+	picture = "gfx/leaders/RAJ/Portrait_British_Raj_Lord_Willingdon.dds"
+	expire = "1936.4.18"
 	ideology = despotism
 	traits = {
 		

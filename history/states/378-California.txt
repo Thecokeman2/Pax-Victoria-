@@ -4,16 +4,15 @@ state={
 	name="STATE_378"
 	resources={
 		oil=180.000
-		aluminium=5.000
+		aluminium=8.000
 	}
 
 	history={
-		owner = SAT
+		owner = USA
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
-			industrial_complex = 4
-			dockyard = 1
+			industrial_complex = 3
 			air_base = 10
 			9671 = {
 				naval_base = 4
@@ -23,24 +22,21 @@ state={
 				naval_base = 5
 
 			}
-			610 = {
-				naval_base = 1
-
-			}
 
 		}
-		add_core_of = SAT
+		add_core_of = USA
+		add_core_of = CAL
 		victory_points = {
 			9814 30 
-		}
-		victory_points = {
-			1562 15 
 		}
 		victory_points = {
 			9671 25 
 		}
 		victory_points = {
-			9713 1 
+			6881 5 
+		}
+		victory_points = {
+			11757 1 
 		}
 		1939.1.1 = {
 			buildings = {
@@ -53,9 +49,9 @@ state={
 	}
 
 	provinces={
-		610 677 766 768 781 941 986 1432 1601 3588 3644 3677 3678 3784 3840 4518 6482 6665 6681 6694 6699 6745 6757 6772 6861 6876 6881 9637 9671 9697 9713 9730 9814 9855 9911 11658 11763 11859 11876 
+		986 3677 3678 3784 3840 6861 6881 9637 9671 9814 9855 10483 11757 11795 11859 11876 
 	}
-	manpower=3803756
+	manpower=2062221
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=large_city
 }

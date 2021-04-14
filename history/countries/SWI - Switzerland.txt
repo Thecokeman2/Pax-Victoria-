@@ -66,6 +66,8 @@ set_technology = {
 	}
 }
 
+give_guarantee = LIE
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1935.10.27"

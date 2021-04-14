@@ -165,9 +165,20 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
+	set_autonomy = {
+		target = EGY
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.6
+	}
+	set_autonomy = {
+		target = HKG
+		autonomous_state = autonomy_integrated_puppet
+	}
 	else = {
 		puppet = MAL
 		puppet = RAJ
+		puppet = EGY
+		puppet = HKG
 	}
 }
 

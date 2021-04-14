@@ -138,6 +138,23 @@ set_popularities = {
 	communism = 2
 }
 
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = ICE
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.4
+	}
+	else = {
+		puppet = ICE
+	}
+}
+
 
 1939.1.1 = {
 	set_politics = {
@@ -164,7 +181,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Frits Clausen"
 	desc = "POLITICS_FRITS_CLAUSEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	picture = "Portrait_Frits_Clausen.dds"
 	expire = "1965.1.1"
 	ideology = nazism
 	traits = {

@@ -7,9 +7,8 @@ state={
 
 	history={
 		owner = YUG
-		controller = YUG
 		victory_points = {
-			3614 1
+			11787 1 
 		}
 
 		buildings = {
@@ -17,7 +16,6 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = SER
-		add_core_of = TRA
 	}
 
 	provinces={

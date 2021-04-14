@@ -132,7 +132,27 @@ set_popularities = {
 add_ideas = {
 }
 
+create_country_leader = {
+	name = "Rupprecht"
+	desc = ""
+	picture = "Portrait_Bavaria_Rupprecht.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
 
+create_country_leader = {
+	name = "Paul Giesler"
+	desc = ""
+	picture = "Portrait_Bavaria_Paul_Giesler.dds"
+	expire = "1965.1.1"
+	ideology = nazism
+	traits = {
+		#
+	}
+}
 
 #create_country_leader = {
 #	name = "Dennis Fredauer"

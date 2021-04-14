@@ -189,7 +189,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Sven Olov Lindholm"
 	desc = "POLITICS_SVEN_OLOV_LINDHOLM_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	picture = "Portrait_Sweden_Sven_Lindholm.dds"
 	expire = "1965.1.1"
 	ideology = nazism
 	traits = {
@@ -240,6 +240,18 @@ create_corps_commander = {
 	attack_skill = 4
 	defense_skill = 1
 	planning_skill = 4
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Olof Gerhard Thörnell"
+	portrait_path = "Portrait_Sweden_Olof_Thornell.dds"
+	traits = { old_guard }
+	skill = 5
+
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 3
 	logistics_skill = 4
 }
 

@@ -400,7 +400,7 @@ air_wings = {
 	}
 
 	### II. Luftkreiskommando -- Berlin ###
-	64 = { 
+	794 = { 
 		# Jagdgeschwader 132 'Richtofen'		
 		fighter_equipment_0 =  {		# Ar 68
 			owner = "GER" 

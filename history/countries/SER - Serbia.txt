@@ -102,7 +102,7 @@ if = {
 	}
 }
 
-set_convoys = 0
+set_convoys = 10
 
 set_politics = {
 	ruling_party = neutrality
@@ -141,7 +141,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Milan Nedic"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	picture = "portrait_ser_milan"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {

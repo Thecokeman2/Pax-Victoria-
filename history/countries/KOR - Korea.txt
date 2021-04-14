@@ -26,7 +26,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Syngman Rhee"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+	picture = "Portrait_Korea_syngman.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
@@ -35,9 +35,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Yi Kang"
+	name = "Lyuh Woon-hyung"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+	picture = "Portrait_Korea_Lyuh_Woon_hyung.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
@@ -48,9 +48,20 @@ create_country_leader = {
 create_country_leader = {
 	name = "Kim Il-sung"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+	picture = "Portrait_Korea_ilsung.dds"
 	expire = "1965.1.1"
 	ideology = stalinism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Kim Gu"
+	desc = ""
+	picture = "Portrait_Korea_Kim_Gu.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
 	traits = {
 		#
 	}
@@ -65,4 +76,26 @@ create_country_leader = {
 	traits = {
 		#
 	}
+}
+
+create_field_marshal = {
+	name = "Ji Cheong cheon"
+	picture = "Portrait_Korea_Ji_Cheong_cheon.dds"
+	traits = { defensive_doctrine trait_cautious career_officer }
+	skill = 5
+	attack_skill = 3
+	defense_skill = 5
+	planning_skill = 5
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Oh Gwang sim"
+	picture = "Portrait_Korea_Oh_Gwang_sim.dds"
+	traits = { inflexible_strategist }
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 3
 }

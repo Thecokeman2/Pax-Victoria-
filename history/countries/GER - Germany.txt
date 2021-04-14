@@ -1,4 +1,4 @@
-﻿capital = 64
+﻿capital = 1105
 
 oob = "GER_1936"
 
@@ -102,23 +102,6 @@ set_variable = { var = wehrmacht_anger value = 0 }
 set_variable = { var = ss_anger value = 0 }
 set_research_slots = 4
 set_convoys = 200
-# DIPLOMACY
-if = {
-	limit = {
-		OR = {
-			has_dlc = "Together for Victory"
-			has_dlc = "Man the Guns"
-		}
-	}
-	set_autonomy = {
-		target = TEX
-		autonomous_state = autonomy_colony
-		freedom_level = 0.2
-	}
-	else = {
-		puppet = TEX
-	}
-}
 set_stability = 0.75 
 set_war_support = 0.3
 
@@ -154,6 +137,11 @@ create_import = {
 	
 	set_autonomy = {
 		target = SLO
+		autonomous_state = autonomy_puppet
+	}
+	
+	set_autonomy = {
+		target = PBM
 		autonomous_state = autonomy_puppet
 	}
 	

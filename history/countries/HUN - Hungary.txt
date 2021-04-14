@@ -28,24 +28,6 @@ if = {
 	}
 }
 
-if = {
-	limit = {
-		#has_dlc = Battle for the Bosporus
-	}
-	add_opinion_modifier = { 
-		target = CZE
-		modifier = BFTB_incongruous_neighbors
-	}
-	add_opinion_modifier = { 
-		target = ROM
-		modifier = BFTB_incongruous_neighbors
-	}
-	add_opinion_modifier = { 
-		target = YUG
-		modifier = BFTB_incongruous_neighbors
-	}
-}
-
 1939.1.1 = {
 	remove_ideas = HUN_treaty_of_triannon
 
@@ -203,7 +185,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Árpád Szakasits"
 	desc = "POLITICS_ARPAD_SZAKASITS_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	picture = "Portrait_Arpad_Szakasits.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {

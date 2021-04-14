@@ -3,27 +3,26 @@ state={
 	id=382
 	name="STATE_382"
 	resources={
-		oil=10
+		oil=14.000
 	}
 
 	history={
-		owner = NFR
+		owner = USA
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 
 		}
-		add_core_of = NFR
+		add_core_of = USA
 		victory_points = {
-			1827 5 
+			6887 1 
 		}
 
 	}
 
 	provinces={
-		1809 1827 3869 7780 10588 11772 12570 12642 
+		868 1658 6887 7684 7999 9792 10535 13238 
 	}
-	manpower=683621
+	manpower=413050
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 }
