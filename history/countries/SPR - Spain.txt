@@ -16,9 +16,9 @@ if = {
 		}
 	}
 	set_popularities = {
-		democratic = 47
-		fascism = 46
-		communism = 7
+		democratic = 31
+		communism = 3
+		neutrality = 64
 	}
 }
 

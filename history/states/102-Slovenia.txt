@@ -4,7 +4,7 @@ state={
 	name="STATE_102"
 
 	history={
-		owner = YUG
+		owner = CRO
 		buildings = {
 			infrastructure = 6
 
@@ -14,6 +14,7 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = SLV
+                add_core_of = CRO
 		1939.3.14 = {
 			owner = YUG
 			

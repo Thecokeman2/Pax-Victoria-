@@ -6,7 +6,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = YUG
+		owner = HUN
 		victory_points = {
 			11787 1 
 		}
@@ -16,6 +16,7 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = SER
+		add_core_of = HUN
 	}
 
 	provinces={
