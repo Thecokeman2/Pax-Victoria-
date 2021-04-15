@@ -2,9 +2,19 @@
 state={
 	id=1294
 	name="STATE_1294"
-	provinces={
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = USA
+       }	
+
+        provinces={
 		823 1562 4727 7517 7986 12374 
 	}
-	manpower=0
+	manpower=9993
 	buildings_max_level_factor=1.000
-}
+        state_category = pastoral
+} 

@@ -4,7 +4,7 @@ state={
 	
         history={
                 owner = USA 
-                bulidings = {
+                buildings = {
                          infrastructure = 3
 
 

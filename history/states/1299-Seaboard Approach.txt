@@ -1,9 +1,21 @@
 state={
 	id=1299
 	name="STATE_1299"
-	provinces={
+		
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = USA
+       }
+	
+ 
+        provinces={
 		4657 10387 10483 11757 11795 12303 
 	}
-	manpower=0
+	manpower=11202
 	buildings_max_level_factor=1.000
+        state_category = pastoral
 }

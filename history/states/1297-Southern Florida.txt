@@ -2,9 +2,9 @@ state={
 	id=1297
 	name="STATE_1297"
 	
-        history ={
+        history={
                  owner = USA
-                 bulidings = infrastructure = 6
+                 buildings = infrastructure = 6
                  
         }
 
@@ -13,5 +13,5 @@ state={
 	}
 	manpower=35412
 	buildings_max_level_factor=1.000
-        state_category=large_city
+        state_category = large_city
 }
