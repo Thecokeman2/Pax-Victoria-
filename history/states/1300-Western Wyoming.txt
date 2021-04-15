@@ -1,0 +1,24 @@
+
+state={
+	id=1300
+	name="STATE_1300"
+	history={
+                owner = USA 
+                bulidings = {
+                         infrastructure = 3
+
+
+		}
+		add_core_of = USA
+
+
+        }
+
+        provinces={
+		1815 7688 7888 10711 13242 13243 
+	}
+	manpower=9885
+	buildings_max_level_factor=1.000
+        state_catagory=pastoral 
+}
+

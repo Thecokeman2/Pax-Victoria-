@@ -1,7 +1,6 @@
-
 state={
-	id=381
-	name="STATE_381"
+	id=1306
+	name="STATE_1306"
 
 	history={
 		owner = USA
@@ -10,16 +9,13 @@ state={
 
 		}
 		add_core_of = USA
-		victory_points = {
-			10711 1 
-		}
 
-	}
+        }
 
 	provinces={
-		4610 4794 4820 7814 
+		659 689 831 3685 3872 11760 11776 11791 
 	}
-	manpower=183462
+	manpower=3423592
 	buildings_max_level_factor=1.000
-	state_category=rural
+        state_category= rural
 }

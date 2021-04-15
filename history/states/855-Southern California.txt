@@ -1,9 +1,10 @@
+
 state={
 	id=855
 	name="STATE_855"
+
 	history={
 		owner = USA
-
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
@@ -24,7 +25,7 @@ state={
 	}
 
 	provinces={
-		823 941 1432 1562 1601 1651 4518 4657 4727 6694 6699 6876 7517 7667 7986 9911 10387 11763 12303 12374 
+		941 1432 1601 1651 4518 6694 6699 6876 7667 9911 11763 
 	}
 	manpower=2405002
 	buildings_max_level_factor=1.000

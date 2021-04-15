@@ -1,0 +1,20 @@
+state={
+	id=1307
+	name="STATE_1307"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = USA
+       }
+
+       provinces={
+		9450 
+       }
+       manpower=438036
+       buildings_max_level_factor=1.000
+       state_category=megalopolis
+}

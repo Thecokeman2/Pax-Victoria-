@@ -16,17 +16,16 @@ state={
 		}
 		add_core_of = USA
 		victory_points = {
-			4816 15
+			4816 15 
 		}
 		victory_points = {
 			4607 1 
 		}
 
-
 	}
 
 	provinces={
-		1862 4521 4607 4736 4799 4816 10422 12134 12399 12425 
+		4521 4607 4736 10422 12134 12425 
 	}
 	manpower=51035
 	buildings_max_level_factor=1.000
